@@ -12,17 +12,16 @@ Anything that doesn't altogether remove the Custom AI Assistant and Sapient AI A
 
 Not compatible with achievements because it adds an effect and events.
 
-[h3]Post-Game Start[/h3]
+[h3]When to Install[/h3]
 
-This mod can be safely added or removed from your save game after the game has started.  It is implemented entirely through custom events (and custom triggers). If you remove it, your game will work normally.
+This mod can be safely added or removed from your savegame after the game has started.  It is implemented entirely through custom events and effects. If you remove it, your game will work normally.  Any upgraded scientists will keep their swapped trait.
 
 [h2]Changelog[/h2]
 
-[list]
-[*]1.0.0 Initial version
-[*]1.0.1 Add more info to README (no script changes)
-[/list]
+See [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2498166286]Change Notes[/url]
 
 [h2]Source Code[/h2]
 
-[url=https://github.com/corsairmarks/scientist_ai_assistant_upgrader]Hosted on GitHub[/url]
+Hosted on [url=https://github.com/corsairmarks/scientist_ai_assistant_upgrader]GitHub[/url]
+
+[url=https://discord.gg/bHVez2C][img]https://i.imgur.com/4Und3QN.png[/img][/url]
