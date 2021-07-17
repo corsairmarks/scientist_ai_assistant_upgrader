@@ -25,6 +25,7 @@ This mod can be safely added or removed from your savegame after the game has st
     * Rename to "Leader Traits: Scientist AI Assistant Upgrader" and update thumbnail
     * Add more preview images
     * Update README/description
+* 1.0.4 Alter text alignment in thumbnail
 
 ## Source Code
 
