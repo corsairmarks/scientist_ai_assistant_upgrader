@@ -1,4 +1,4 @@
-name="Scientist AI Assistant Upgrader"
+name="Leader Traits: Scientist AI Assistant Upgrader"
 tags={
 	"Gameplay"
 	"Leaders"
