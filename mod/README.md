@@ -2,11 +2,15 @@
 
 Have you ever been bothered that your scientists don't upgrade their Custom AI Assistants (which were enabled by Self-Evolving Logic) to Sapient AI Assistants when you discover Positronic AI (the prerequisite technology for that trait)?  Well be frustrated no more!  This mod upgrades all your scientists when you discover Positronic AI, ensures that newly-generated leaders are equipped with the best tech before you hire them, and ensures they receive better training when creating a new assistant upon level-up.  If all else fails and a scientist was too busy to upgrade their assistant, reassign them and the research logistics department will be sure to perform the upgrade during relocation.
 
+If you outlaw AI, the loophole has been closed that previously allowed scientists to still acquire the foul positronic imitations of life.  However, in the spirit of reconciliation, scientists may still us algorithmically-driven artificial "intelligence" to serve the state (i.e. Sapient AI Assistants are downgraded to Custom AI Assistants instead of being wholly removed).  And if you later decide that maybe AI is for you after all, scientists with Custom AI Assistants will be upgraded when you change the policy.
+
 # Changes
 
 Added an effect that will upgrade a leader's Custom AI Assistant trait, and then hooked in logic to call it when leaders spawn, level up, when Positronic AI is researched, and when a leader is assigned.  The prerequisite technology for Sapient AI Assistants is Positronic AI, so the events will not trigger unless the leader's owner has the technology researched.
 
 ## Compatibility
+
+Built for Stellaris version 3.1.* "Lem."
 
 Anything that doesn't altogether remove the Custom AI Assistant and Sapient AI Assistant traits.  This mod is implemented without changing any core Stellaris files.
 
@@ -26,6 +30,10 @@ This mod can be safely added or removed from your savegame after the game has st
     * Add more preview images
     * Update README/description
 * 1.0.4 Alter text alignment in thumbnail
+* 1.1.0 Enhanced remove/add AI assistants when outlawing/legalizing AI
+    * Check for AI being legal before upgrading any scientist traits
+    * Mark as compatible for Stellaris 3.1.* "Lem"
+    * Still usable with previous version 3.0.* "Dick" (and likely 2.8.* "Butler")
 
 ## Source Code
 
