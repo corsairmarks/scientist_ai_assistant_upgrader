@@ -103,13 +103,15 @@ country_event = {
 	trigger = {
 		last_changed_policy = artificial_intelligence_policy
 		has_policy_flag = ai_outlawed
-		any_owned_leader = {
-			leader_class = scientist
-			has_trait = leader_trait_sapient_AI_assistant
-		}
-		any_pool_leader = {
-			leader_class = scientist
-			has_trait = leader_trait_sapient_AI_assistant
+		OR = {
+			any_owned_leader = {
+				leader_class = scientist
+				has_trait = leader_trait_sapient_AI_assistant
+			}
+			any_pool_leader = {
+				leader_class = scientist
+				has_trait = leader_trait_sapient_AI_assistant
+			}
 		}
 	}
 	immediate = {
