@@ -10,11 +10,9 @@ Added an effect that will upgrade a leader's Custom AI Assistant trait, and then
 
 ## Compatibility
 
-Built for Stellaris version 3.1.* "Lem."
-
 Anything that doesn't altogether remove the Custom AI Assistant and Sapient AI Assistant traits.  This mod is implemented without changing any core Stellaris files.
 
-Not compatible with achievements because it adds an effect and events.
+Built for Stellaris version 3.2.* "Herbert." Not compatible with achievements because it adds an effect and events.
 
 ### When to Install
 
@@ -32,8 +30,10 @@ This mod can be safely added or removed from your savegame after the game has st
 * 1.0.4 Alter text alignment in thumbnail
 * 1.1.0 Enhanced remove/add AI assistants when outlawing/legalizing AI
     * Check for AI being legal before upgrading any scientist traits
-    * Mark as compatible for Stellaris 3.1.* "Lem"
-    * Still usable with previous version 3.0.* "Dick" (and likely 2.8.* "Butler")
+    * Mark as compatible for Stellaris 3.1 "Lem"
+    * Still usable with previous version 3.0 "Dick" (and likely 2.8 "Butler")
+* Mark as compatible with Stellaris 3.2 "Herbert" - no script changes
+    * Still usable with previous versions: 3.1 "Lem" and 3.0 "Dick" (and likely 2.8 "Butler")
 
 ## Source Code
 
