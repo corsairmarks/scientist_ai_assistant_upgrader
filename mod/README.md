@@ -32,7 +32,7 @@ This mod can be safely added or removed from your savegame after the game has st
     * Check for AI being legal before upgrading any scientist traits
     * Mark as compatible for Stellaris 3.1 "Lem"
     * Still usable with previous version 3.0 "Dick" (and likely 2.8 "Butler")
-* Mark as compatible with Stellaris 3.2 "Herbert" - no script changes
+* 1.2.0 Mark as compatible with Stellaris 3.2 "Herbert" - no script changes
     * Still usable with previous versions: 3.1 "Lem" and 3.0 "Dick" (and likely 2.8 "Butler")
 
 ## Source Code
