@@ -12,7 +12,7 @@ Added an effect that will upgrade a leader's Custom AI Assistant trait, and then
 
 Anything that doesn't altogether remove the Custom AI Assistant and Sapient AI Assistant traits.  This mod is implemented without changing any core Stellaris files.
 
-Built for Stellaris version 3.2.* "Herbert." Not compatible with achievements because it adds an effect and events.
+Built for Stellaris version 3.3 "Libra." Not compatible with achievements because it adds an effect and events.
 
 ### When to Install
 
@@ -34,6 +34,8 @@ This mod can be safely added or removed from your savegame after the game has st
     * Still usable with previous version 3.0 "Dick" (and likely 2.8 "Butler")
 * 1.2.0 Mark as compatible with Stellaris 3.2 "Herbert" - no script changes
     * Still usable with previous versions: 3.1 "Lem" and 3.0 "Dick" (and likely 2.8 "Butler")
+* 1.3.0 Mark as compatible with Stellaris 3.3 "Libra" - no script changes
+    * Still usable with previous versions: 3.2 "Herbert," 3.1 "Lem," and 3.0 "Dick" (and likely 2.8 "Butler")
 
 ## Source Code
 
