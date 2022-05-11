@@ -9,7 +9,7 @@ Added an effect that will upgrade a leader's Custom AI Assistant trait, and then
 [h2]Compatibility[/h2]
 Anything that doesn't altogether remove the Custom AI Assistant and Sapient AI Assistant traits.  This mod is implemented without changing any core Stellaris files.
 
-Built for Stellaris version 3.3 "Libra."  Not compatible with achievements because it adds an effect and events.
+Built for Stellaris version 3.4 "Cepheus."  Not compatible with achievements because it adds an effect and events.
 
 [h3]When to Install[/h3]
 This mod can be safely added or removed from your savegame after the game has started.  It is implemented entirely through custom events and effects. If you remove it, your game will work normally.  Any upgraded scientists will keep their swapped trait.
