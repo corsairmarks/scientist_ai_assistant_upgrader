@@ -36,8 +36,7 @@ This mod can be safely added or removed from your savegame after the game has st
     * Still usable with previous versions: 3.1 "Lem" and 3.0 "Dick" (and likely 2.8 "Butler")
 * 1.3.0 Mark as compatible with Stellaris 3.3 "Libra" - no script changes
     * Still usable with previous versions: 3.2 "Herbert," 3.1 "Lem," and 3.0 "Dick" (and likely 2.8 "Butler")
-* 1.4.0 Mark as compatible with Stellaris 3.4 "Cepheus" - no script changes
-    * Still usable with previous versions: 3.3 "Libra," 3.2 "Herbert," 3.1 "Lem," and 3.0 "Dick" (and likely 2.8 "Butler")
+* 2.0.0 Update for Stellaris version 3.4 "Cepheus" - use memory optimization feature for an effect (no longer backwards-compatible)
 
 ## Source Code
 
