@@ -39,6 +39,7 @@ This mod can be safely added or removed from your savegame after the game has st
 * 2.0.0 Update for Stellaris version 3.4 "Cepheus" - use memory optimization feature for an effect (no longer backwards-compatible)
 * 2.1.0 Mark as compatible with Stellaris version 3.6 "Orion" - no script changes
     * Still usable with previous versions: 3.5 "Fornax" and 3.4 "Cepheus"
+* 2.2.0 Add a compatibility trigger for other mods to check whether this one is active
 
 ## Source Code
 
