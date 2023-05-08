@@ -12,7 +12,7 @@ Added an effect that will upgrade a leader's Custom AI Assistant trait, and then
 
 Anything that doesn't altogether remove the Custom AI Assistant and Sapient AI Assistant traits.  This mod is implemented without changing any core Stellaris files.
 
-Built for Stellaris version 3.7 "Canis Minor." Not compatible with achievements because it adds an effect and events.
+Built for Stellaris version 3.8 "Gemini." Not compatible with achievements because it adds an effect and events.
 
 ### When to Install
 
@@ -41,6 +41,7 @@ This mod can be safely added or removed from your savegame after the game has st
     * Still usable with previous versions: 3.5 "Fornax" and 3.4 "Cepheus"
 * 2.2.0 Add a compatibility trigger for other mods to check whether this one is active
 * 2.3.0 Mark as compatible with Stellaris version 3.7 "Canis Minor" - no script changes
+* 3.0.0 Update for Stellaris version 3.8 "Gemini" - add the new trait without triggering a notification, remove obsolete references to ruler leader class
 
 ## Source Code
 
