@@ -121,7 +121,7 @@ country_event = {
 				has_trait = leader_trait_sapient_AI_assistant
 			}
 			remove_trait = leader_trait_sapient_AI_assistant
-			add_trait = leader_trait_custom_AI_assistant
+			add_trait_no_notify = leader_trait_custom_AI_assistant
 		}
 		every_pool_leader = {
 			limit = {
@@ -129,7 +129,7 @@ country_event = {
 				has_trait = leader_trait_sapient_AI_assistant
 			}
 			remove_trait = leader_trait_sapient_AI_assistant
-			add_trait = leader_trait_custom_AI_assistant
+			add_trait_no_notify = leader_trait_custom_AI_assistant
 		}
 	}
 	option = {
