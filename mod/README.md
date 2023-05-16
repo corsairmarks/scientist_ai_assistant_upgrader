@@ -30,7 +30,7 @@ This mod can be safely added or removed from your savegame after the game has st
 * 1.0.4 Alter text alignment in thumbnail
 * 1.1.0 Enhanced remove/add AI assistants when outlawing/legalizing AI
     * Check for AI being legal before upgrading any scientist traits
-    * Mark as compatible for Stellaris version 3.1 "Lem"
+    * Mark as compatible with Stellaris version 3.1 "Lem"
     * Still usable with previous version 3.0 "Dick" (and likely 2.8 "Butler")
 * 1.2.0 Mark as compatible with Stellaris version 3.2 "Herbert" - no script changes
     * Still usable with previous versions: 3.1 "Lem" and 3.0 "Dick" (and likely 2.8 "Butler")
